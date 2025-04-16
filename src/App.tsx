@@ -11,7 +11,7 @@ function App() {
   return (
     <BrowserRouter>
       <Routes>
-        <Route path="/404" element={<Level404 />} />
+        <Route path="/" element={<Level404 />} />
         <Route path="/hidden-path" element={<Level2 />} />
         <Route path="/encrypted-gateway" element={<Level3 />} />
         <Route path="/final-challenge" element={<Level4 />} />
