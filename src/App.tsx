@@ -16,7 +16,6 @@ function App() {
         <Route path="/encrypted-gateway" element={<Level3 />} />
         <Route path="/final-challenge" element={<Level4 />} />
         <Route path="/victory" element={<FinalLevel />} />
-        <Route path="/leaderboard" element={<Leaderboard />} />
         <Route path="*" element={<Navigate to="/404" replace />} />
       </Routes>
     </BrowserRouter>
