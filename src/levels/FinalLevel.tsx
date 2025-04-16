@@ -15,7 +15,7 @@ export const FinalLevel: React.FC = () => {
           Please contact an organizing committee member to claim your prize.
         </p>
         <p className="text-yellow-400 mt-4 font-semibold">
-          📞 Call: +91-XXXXXXXXXX
+          📞 Call: +91-8639537069
         </p>
         <p className="text-yellow-600 text-sm mt-2 italic">
           (Or visit the help desk at the event venue)
